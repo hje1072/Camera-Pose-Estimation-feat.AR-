@@ -22,7 +22,8 @@ https://github.com/hje1072/python_camera_calibration
 
 
 
-(영상등록)
 
+![arpicture](https://github.com/hje1072/Camera-Pose-Estimation-feat.AR-/assets/71210590/f13b3db2-1518-4a6c-becd-432976299d36)
 
+(그림과 같이 십자가 모양이 잘 나와있는 것을 확인할 수 있다.)
 
